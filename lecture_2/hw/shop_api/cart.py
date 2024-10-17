@@ -5,7 +5,7 @@ from sqlalchemy import func
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 
-from database import CartTable, connect_table
+from .database import CartTable, connect_table
 
 class CartLogic():
     

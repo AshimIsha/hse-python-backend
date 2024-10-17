@@ -8,7 +8,7 @@ from pydantic import Json
 from .schemes import CartItem, Cart, Item, EmptyItem
 from sqlalchemy.orm import Session
 from .database import Base
-from connection import get_session, engine
+from .connection import get_session, engine
 from .cart import CartLogic
 from .item import ItemLogic, CreateItem, UpdateItem
 

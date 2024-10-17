@@ -4,8 +4,8 @@ from fastapi import Query
 from sqlalchemy import and_
 from typing import List
 
-from database import ItemTable
-from schemes import Item
+from .database import ItemTable
+from .schemes import Item
 
 class CreateItem(Item):
     pass
