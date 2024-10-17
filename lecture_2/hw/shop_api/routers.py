@@ -5,12 +5,12 @@ from fastapi.responses import JSONResponse
 from http import HTTPStatus
 
 from pydantic import Json
-from schemes import CartItem, Cart, Item, EmptyItem
+from .schemes import CartItem, Cart, Item, EmptyItem
 from sqlalchemy.orm import Session
-from database import Base
+from .database import Base
 from connection import get_session, engine
-from cart import CartLogic
-from item import ItemLogic, CreateItem, UpdateItem
+from .cart import CartLogic
+from .item import ItemLogic, CreateItem, UpdateItem
 
 Base.metadata.create_all(bind=engine)
 
