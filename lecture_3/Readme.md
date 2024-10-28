@@ -1,4 +1,4 @@
-### —крины
+### –Ю—В—З—С—В
 Grafana 
 ![grafana.png](proofs/grafana.png)
 
