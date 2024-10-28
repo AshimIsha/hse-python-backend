@@ -1,4 +1,4 @@
-### Скрины
+### РћС‚С‡РµС‚
 Grafana 
 ![grafana.png](proofs/grafana.png)
 
