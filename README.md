@@ -4,4 +4,6 @@ Grafana
 
 Docker
 ![compose.png](lecture_3proofs/compose.PNG)
+
+Terminal
 ![terminal.png](lecture_3proofs/terminal.PNG)
