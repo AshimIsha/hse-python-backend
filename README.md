@@ -1,7 +1,7 @@
 ### Отчет
 Grafana 
-![grafana.png](proofs/grafana.png)
+![grafana.png](lecture_3/proofs/grafana.PNG)
 
 Docker
-![compose.png](proofs/compose.png)
-![terminal.png](proofs/terminal.png)
+![compose.png](lecture_3proofs/compose.PNG)
+![terminal.png](lecture_3proofs/terminal.PNG)
